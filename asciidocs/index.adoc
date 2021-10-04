@@ -153,6 +153,7 @@ endif::backend-html5[]
 
 * Erstellen eines Mikroprojektes mit angegebenen Thema
 * ca. 3-5 Entites
+* Kurze Beschreibung der geplanten Funktionalität des Projekts (um das Klassendiagramm darauf zu überprüfen)
 * Eigene Folder für Doku, Backend und Frontend
 
 [plantuml,folder]
@@ -176,6 +177,16 @@ endif::backend-html5[]
 * Deployment als gh-pages
 * Link zu gh-pages im Repo angeben
 * TAG: class diagram
+
+
+== 2021-10-04
+
+* Microprofile bis inklusive https://htl-leonding-example.github.io/udemy-microservices-goncalves/#_excursus_json_b[Exkurs JSON-B]
+
+* Übung:
+** Erweitern Sie Ihr Mikroprojekt mit Repositories
+** Erstellen Sie mindestens einen Endpoint und konfigurieren Sie diesen mit JSON-B
+
 
 ////
 ====
