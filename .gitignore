@@ -5,3 +5,6 @@ target/
 asciidocs/revealjs/
 revealjs.zip
 gh-pages
+*.jar
+.idea/
+*.iml

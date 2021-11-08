@@ -1,6 +1,6 @@
 = Lecture Notes 5ahitm SEW 2021
 M.Haslinger, T.Stütz
-1.0.0, 2021-09-20: Lecture Notes for Informationtechnische Projekte / ITP
+1.0.0, {docdate}: Lecture Notes for Informationtechnische Projekte / ITP
 ifndef::imagesdir[:imagesdir: images]
 //:toc-placement!:  // prevents the generation of the doc at this position, so it can be printed afterwards
 :sourcedir: ../src/main/java
@@ -186,6 +186,15 @@ endif::backend-html5[]
 * Übung:
 ** Erweitern Sie Ihr Mikroprojekt mit Repositories
 ** Erstellen Sie mindestens einen Endpoint und konfigurieren Sie diesen mit JSON-B
+** Termin 13.10. 2021
+
+== 2021-10-11
+
+
+== 2021-11-08
+
+
+
 
 
 ////
