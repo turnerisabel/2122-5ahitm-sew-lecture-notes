@@ -222,7 +222,23 @@ endif::backend-html5[]
 - Shell-Clients (curl, httpie)
 - Test-Frameworks (Intnit ..., REST Assured)
 
+=== Was ist qute?
+- Quarkus testable engine
+- direkt auf Javacode zugreifen
+- serverseitig
 
+=== Extension hinzufügen (Terminal):
+- quarkus ext add resteasy-qute
+
+=== Was ist eine Deklaration?
+- etwas im System bekannt machen
+- Allokierung vom Speicherplatz den man brauchen wird
+
+=== Was ist eine Initialisierung?
+- erstmalige Zuweisung von einem Wert / Wert das 1.mal zuweisen
+
+=== Octet
+- Bytestream
 
 
 === HÜ:
